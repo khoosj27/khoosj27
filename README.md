@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi, I'm <Su Jen></h1>
+<h1 align="center">👋Hi, I'm Su Jen </h1>
 <p align="center">Empowering teachers, inspiring young innovators..</p>
 
 ## 🏗️ What I'm Building
