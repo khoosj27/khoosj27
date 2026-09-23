@@ -3,8 +3,8 @@
 
 ## 🏗️ What I'm Building
 
-<STEM education, teacher development, and helping young innovators turn their ideas into meaningful projects.>
+STEM education, teacher development, and helping young innovators turn their ideas into meaningful projects.
 
 ## 🛠️ Tools I Use
 
-<Arduino, PictoBlox, Scratch, Python, and GitHub.>
+Arduino, PictoBlox, Scratch, Python, and GitHub.
